@@ -1,3 +1,4 @@
 .env
 /venv
 /Introduction/db
+/query_transformation/data
